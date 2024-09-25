@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtDKkNBgEGMRuGVk1HLKWBgmqlV+Gd0CXti4Wq+ASrwdI5iBR+ubJYuLZeBGoNs7+Ibhs+YzetwJ2hwexTJfXw==",
+  "success": true,
+  "projectFilePath": "/home/zaman/code/c#/tcp-server/TcpImageProcessing/TcpImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "/home/zaman/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/zaman/.nuget/packages/sixlabors.imagesharp/3.1.5/sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "/home/zaman/.nuget/packages/system.drawing.common/8.0.8/system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
